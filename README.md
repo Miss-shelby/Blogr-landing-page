@@ -2,6 +2,7 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
+# Hosted Link: https://bloggrlandingpage.netlify.app/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
